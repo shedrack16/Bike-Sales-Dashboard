@@ -22,7 +22,8 @@ The bike company wants to understand which customer segments are most likely to 
 - Merged all pivot tables into one dashboard and applied slicers (Marital Status, Region, Education) to make it dynamic.
 
 ## Dashboard
-![Bike Sales Dashboard](https://github.com/shedrack16/Bike-Sales-Dashboard)
+<img width="392" height="305" alt="Screenshot 2026-09-10 065555" src="https://github.com/user-attachments/assets/3d42f2ca-f7bb-4541-9bb1-407e46907ce6" />
+
 
 ## Project Insight
 - Customers who purchased a bike had noticeably higher average incomes than those who didn't - male buyers averaged $60,124 versus $56,208 for non-buyers, and female buyers averaged $55,774 versus $53,440 for non-buyers.
