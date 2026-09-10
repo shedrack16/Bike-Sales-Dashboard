@@ -4,7 +4,7 @@
 The bike company wants to understand which customer segments are most likely to purchase a bike, based on income, age, region, education, marital status, and commute habits. So that marketing and sales efforts can be better targeted to grow bike sales.
 
 ## Dataset used
-- [Bike Buyers Dataset](https://github.com/shedrack16/Bike-Sales-Dashboard)
+- [Bike Buyers Dataset](https://docs.google.com/spreadsheets/d/1HF866iOYAlv2pbGdJw87g0X6fCtmLDUa/edit?usp=drivesdk&ouid=116314777286714285295&rtpof=true&sd=true)
 
 ## Questions (KPIs)
 - What is the average income per purchase, split by gender and purchase outcome?
