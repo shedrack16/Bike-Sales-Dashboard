@@ -13,7 +13,7 @@ The bike company wants to understand which customer segments are most likely to 
 - How do purchase rates vary by marital status - Married or Single?
 - How do purchase rates vary by region - Europe, North America, or Pacific?
 - How does education level affect the likelihood of purchasing a bike?
-- Dashboard Interaction [View Dashboard](https://github.com/shedrack16/Bike-Sales-Dashboard)
+- Dashboard Interaction [View Dashboard](https://1drv.ms/x/c/52fbee25a4db2ff5/IQAHzYLkEZZCQqW7HxG_OuReAWnp_DMO1K2aJ9IK1xQ6VW4?e=G7kqIK)
 
 ## Process
 - Verified data for any missing values and anomalies, and sorted out the same.
